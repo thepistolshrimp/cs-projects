@@ -16,7 +16,8 @@ Python implementation of an extended SEIR-type epidemic model, including time-de
 ### [Double Pendulum](double-pendulum-python/)
 Numerical modelling of a double pendulum, including a small-angle approximation, analytical normal modes, Euler-Cromer integration, and nonlinear simulations.
 
-**Six Degrees of IMDb** Python compulsary-assignment using BFS, DFS and Dijkstra's algorithm to analyse connections between actors and movies.
+### [Six Degrees of IMDb](six-degrees-python.py) 
+Python compulsary-assignment using BFS, DFS and Dijkstra's algorithm to analyse connections between actors and movies.
 
 ## Languages and tools
 

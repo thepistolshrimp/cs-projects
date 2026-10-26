@@ -1,6 +1,6 @@
 # Computational Science Projects
 
-A collection of programming and numerical modelling projects completed during university studies.
+A collection of programming and numerical modelling projects completed during my B.Sc at UiO.
 
 ## Projects
 
